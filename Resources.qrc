@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Images/player_ico.png</file>
+        <file>Images/background.jpg</file>
+        <file>Images/audio_ico.svg</file>
+        <file>Images/backward_ico.svg</file>
+        <file>Images/forward_ico.svg</file>
+        <file>Images/pause_ico.svg</file>
+        <file>Images/Play_ico.svg</file>
+        <file>Images/screan_ico.svg</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>Styles/style.css</file>
+    </qresource>
+</RCC>
