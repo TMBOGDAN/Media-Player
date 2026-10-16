@@ -23,7 +23,7 @@ Run the `Media_player` executable from the selected build configuration. Qt must
 
 ## Repository note
 
-A local `build/` directory and `CMakeLists.txt.user` are currently tracked. The `.gitignore` prevents adding fresh generated files; removing the tracked copies requires an explicit reviewed deletion. Existing history will still contain them.
+`build/` output has been removed from the tracked tree and is ignored for future builds. `CMakeLists.txt.user` remains tracked as local Qt Creator configuration. Earlier commits still contain generated files.
 
 ## Future work
 
